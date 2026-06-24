@@ -1,0 +1,12 @@
+ESP32-CAM Discord Bot - Terms of Service
+
+This bot is a private project used to request image captures from an ESP32-CAM device through Discord commands.
+
+By using this bot, you agree that:
+- The bot is provided as-is with no warranty.
+- Only authorized users should use the CAPTURE command.
+- The bot may send a request to an ESP32-CAM device when the CAPTURE command is used.
+- The bot owner is responsible for where and how the camera is installed and used.
+- Do not use this bot to capture images of people or private spaces without proper permission.
+
+Contact: your-email@example.com
