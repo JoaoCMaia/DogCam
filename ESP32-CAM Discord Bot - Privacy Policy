@@ -1,0 +1,19 @@
+ESP32-CAM Discord Bot - Privacy Policy
+
+This bot is a private project used to request image captures from an ESP32-CAM device.
+
+Data collected:
+- The bot reads Discord messages only to detect the CAPTURE command.
+- The bot may use the Discord user ID of the person who sends the command for permission checks.
+- The bot does not store messages, photos, usernames, or user data in a database.
+
+Images:
+- When CAPTURE is used, the bot requests an image from the ESP32-CAM and sends it to the Discord channel.
+- The bot does not permanently store the captured image.
+
+Data sharing:
+- Captured images are sent only to the Discord channel where the command is used.
+- No data is sold or shared with third parties.
+
+Contact:
+For questions or data removal requests, contact joao2000maia@gmail.com.
